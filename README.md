@@ -1,4 +1,4 @@
-# Kreditrisiko-Vorhersage mit Machine Learning
+# 💰 Kreditrisiko-Vorhersage mit Machine Learning
 
 ## 📄 Projektbeschreibung
 
@@ -43,7 +43,7 @@ Dieses Projekt nutzt verschiedene Machine-Learning-Modelle, um Kreditrisiken vor
 ## 🌟 Deployment mit Streamlit
 
 Zur interaktiven Nutzung wurde eine Streamlit-App entwickelt, mit der Nutzer Kreditrisiken für neue Datenpunkte vorhersagen können.
-![Streamlit App Screenshot](images/app_screenshot.png)
+![Streamlit App Screenshot](Skreeshot.png)
 
 ### 🛠️ Schritte zur Nutzung:
 
@@ -75,7 +75,7 @@ streamlit run 'Streamlit_App_XGBoost_Modell.py'
   
 - README.md  # Projektbeschreibung
 
-📈 Fazit
+## 📈 Fazit
 
 Dieses Projekt zeigt, wie Machine Learning für Kreditrisikobewertungen genutzt werden kann. Durch moderne Datenanpassung, Feature-Engineering und Hyperparameter-Tuning wurde ein robustes Modell entwickelt und mit einer benutzerfreundlichen Web-App bereitgestellt.
 
