@@ -18,6 +18,13 @@ Dieses Projekt nutzt verschiedene Machine-Learning-Modelle, um Kreditrisiken vor
 
   - *SMOTE* (Synthetic Minority Over-sampling) zur Balance der Klassen
 
+## 📊 Explorative Datenanalyse (EDA)
+- **Statistische Zusammenfassungen**: Berechnung von Mittelwert, Median, Standardabweichung etc.
+- **Klassenverteilung analysieren**: Untersuchung der Verteilung der Zielvariable.
+- **Korrelationen untersuchen**: Analyse der Beziehungen zwischen verschiedenen Merkmalen.
+- **Datenvisualisierung**: Erstellung von Histogrammen, Boxplots und Heatmaps zur Identifikation von Mustern und Ausreißern.
+
+
 ## 📊 Modelle und Evaluation
 
 ### 🔢 Klassifizierungsmodelle für Kreditrisiko-Vorhersage:
